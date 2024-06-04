@@ -1,15 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6a64be0-4251-4bf8-aa29-a7261b064b09" name="Changes" comment="" />
+    <list default="true" id="f6a64be0-4251-4bf8-aa29-a7261b064b09" name="Changes" comment="добавлено решение hw-3-1 (оно же hw-2-6)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AATsukanov"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AATsukanov/module3.git",
+    "accountId": "13f70158-4412-4ec5-84b1-6f0ff736f451"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -21,6 +43,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.module_3_1.executor": "Run",
+    "Python.namespaces.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -41,6 +65,19 @@
       <option name="presentableId" value="Default" />
       <updated>1717427871640</updated>
     </task>
+    <task id="LOCAL-00001" summary="добавлено решение hw-3-1 (оно же hw-2-6)">
+      <option name="closed" value="true" />
+      <created>1717429308736</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717429308736</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="добавлено решение hw-3-1 (оно же hw-2-6)" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавлено решение hw-3-1 (оно же hw-2-6)" />
   </component>
 </project>
